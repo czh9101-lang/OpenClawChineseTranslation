@@ -124,6 +124,7 @@
       "dashboard/nodes-exec-approvals.json",
       "dashboard/agents-tools-skills.json",
       "dashboard/schema-labels.json",
+      "dashboard/schema-meta.json",
       "dashboard/schema-help-core.json",
       "dashboard/schema-help-runtime.json",
       "dashboard/schema-help-models.json",
